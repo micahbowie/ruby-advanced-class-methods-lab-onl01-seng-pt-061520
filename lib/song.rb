@@ -23,8 +23,11 @@ class Song
   
   def self.new_by_name(name)
     new_song = Song.new
-    n
   end
+  
+  def self.find_by_name
+    
+    
 
     
 end
