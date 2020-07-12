@@ -16,4 +16,8 @@ class Song
     @@all << name
     return name 
   end
+  
+  def new_by_name(name)
+    
+    
 end
