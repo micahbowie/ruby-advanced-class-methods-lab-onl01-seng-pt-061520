@@ -22,7 +22,8 @@ class Song
   end
   
   def self.new_by_name(name)
-     @@all.find
+    name = Song.new(name)
+  end
    end 
     
 end
